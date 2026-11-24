@@ -2,6 +2,7 @@
 
 《隔离区》（ZED ZONE）纯客户端主菜单单人“继续游戏”快捷入口模组（BepInEx 6 IL2CPP，MIT 开源）。
 
+- **Steam 创意工坊**：https://steamcommunity.com/sharedfiles/filedetails/?id=3845196273
 - **前置依赖**：ZED ZONE Code Mod Loader（Steam Workshop ID: `3834614258`）
 - **开源仓库（MIT）**：https://github.com/HelloWorldGitHub114/ZedZone-QuickContinue
 
@@ -57,4 +58,5 @@ A client-side QoL mod for **ZED ZONE** (BepInEx 6 IL2CPP, MIT licensed) that add
 - Click **Continue** to immediately load your most recent singleplayer world, character, and latest save slot (including autosaves), bypassing the 4-screen menu flow.
 - Supports Survival, Cataclysm, Horde (saved runs), and Story mode while strictly ignoring multiplayer sessions.
 - Works out of the box on first launch by scanning the newest local singleplayer save, automatically adapts to the active game UI language, and leaves zero save-file modifications behind on removal.
+- Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=3845196273
 - Source code (MIT): https://github.com/HelloWorldGitHub114/ZedZone-QuickContinue
