@@ -1,0 +1,8 @@
+src/bin/
+src/obj/
+content/
+workshop_item.vdf
+*.user
+*.suo
+*.log
+.vs/
